@@ -13,3 +13,4 @@ STR(+4), WIS(+2)
 # Goals 
 * Science stuff 
  
+![GetImage](https://user-images.githubusercontent.com/8060106/222224973-01603af1-2dd6-4c5c-8f1d-08228b68953b.png)
