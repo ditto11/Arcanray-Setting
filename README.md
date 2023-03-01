@@ -8,4 +8,4 @@ Arcanray is the world this campaign takes place in. The three continents of Arca
 
 # Example of relative link
 
-[Millen](NPCs/Millen.md)
+[Millen](NPCs/Inn_NPCs/Millen.md)
